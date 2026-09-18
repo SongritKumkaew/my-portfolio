@@ -1,9 +1,7 @@
 // Typing Effect for Roles
 const roles = [
-    "Frontend Developer",
-    "UI/UX Designer",
-    "n8n Workflow Automation",
-    "Dashboard Creator"
+    "Web Developer",
+    "Web & Automation Developer",
 ];
 
 let roleIndex = 0;
